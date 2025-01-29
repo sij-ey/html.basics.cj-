@@ -1,1 +1,1 @@
-# html.basics.cj-
+This is a foundational code to my web development journey and it is the pseudo code to my online portfolio example
